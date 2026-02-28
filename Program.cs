@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Mostrar un patrón donde cada fila tenga el número de la fila repetido.
+
